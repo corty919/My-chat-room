@@ -1,7 +1,7 @@
 # my-chat-room
 ## 效果图
-![image](https://github.com/corty919/My-chat-room/view/image/value.jpg)
-![image](https://github.com/corty919/My-chat-room/view/image/value1.jpg)
+![image](https://github.com/corty919/My-chat-room/blob/master/view/image/value.jpg)
+![image](https://github.com/corty919/My-chat-room/blob/master/view/image/value1.jpg)
 ## 运行方式
 ```bash
 # clone项目到本地
