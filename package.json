@@ -1,0 +1,29 @@
+{
+  "name": "my-chat-room",
+  "version": "1.0.0",
+  "description": "this is a chat room",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corty919/My-chat-room.git"
+  },
+  "keywords": [
+    "node",
+    "chat"
+  ],
+  "author": "perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corty919/My-chat-room/issues"
+  },
+  "homepage": "https://github.com/corty919/My-chat-room#readme"
+}
